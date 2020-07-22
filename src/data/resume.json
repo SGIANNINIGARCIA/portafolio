@@ -1,0 +1,34 @@
+{
+  "Programming Lenguages": ["C++", "C", "JAVASCRIPT", "JAVA", "PYTHON"],
+  "Tools": [
+    "AWS",
+    "Visual Studio",
+    "Eclipse",
+    "Atom",
+    "Qt creator",
+    "TeamDynamix",
+    "MongoDB Compass",
+    "Postman",
+    "XCode",
+    "Android studio",
+    "Git",
+    "Active Directory",
+    "Microsoft Admin",
+    "Webex",
+    "Zoom"
+  ],
+  "Database": ["MySQL", "MongoDB", "PostgreSQL"],
+  "Others": [
+    "React Native",
+    "ReactJS",
+    "Node.js",
+    "OpenGL",
+    "Qt",
+    "Express.js",
+    "JQuery",
+    "Passport.js",
+    "Socket.io"
+  ],
+  "Methodologies": ["Iterative", "Waterfall", "Scrum"],
+  "Spoken Lenguages": ["Spanish (native)", "English (fluent)"]
+}

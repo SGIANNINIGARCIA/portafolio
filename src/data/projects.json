@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Quickscan App",
+    "description": "Multiplatform app that provides users with an alternative to the process of scanning items at the cashier, or self-checkout. It also allows users to compare list of products and prices with participating stores. The app was developed with the objective of minimizing interaction, or simply bypassing the process of scanning during self-checkout.",
+    "date": "May, 2020",
+    "tools": "JavaScript, React Native, Redux.js, Expo, Visual Studio Code",
+    "image": "quickscan.png",
+    "url": "https://github.com/songmayphan/QuickScan"
+  },
+  {
+    "name": "Quickscan API",
+    "description": "An API developed using Node and Express to handle the backend of the Quickscan App. The API is hosted in a EC2 instance, and it manages the access to the MongoDB database used the app, the retrieval of barcode information, and manipulation of data.",
+    "date": "May, 2020",
+    "tools": "JavaScript (Node.js), Express.js, Mongoose.js, AWS Cognito, AWS EC2, MongoDB, Visual Studio Code, Postman, MongoDB Compass",
+    "image": "quickscanapi.png",
+    "url": "https://github.com/SGIANNINIGARCIA/quickscan-API"
+  },
+  {
+    "name": "Boids",
+    "description": "A program that simulates the flocking behavior of birds, based on Boids by Craig Reynolds. The program uses the Qt widget toolkit to create the GUI that allows the user to control the degree of separation, alignment and cohesion, as well as the graphics used for the simulation.",
+    "date": "March, 2020",
+    "tools": "C++, Qt library, Qt creator",
+    "image": "boids.png",
+    "url": "https://github.com/SGIANNINIGARCIA/FlockingAlgorithm"
+  },
+  {
+    "name": "Raytracer",
+    "description": "A ray tracer that renders a .ppm image. The ray tracer contains the functionality to handle multiple light sources, camera position, antialiasing, shading using the Blinn-Phong model, checker-box texture, shadows and specular reflection. ",
+    "date": "April, 2020",
+    "tools": "C++, Eclipse",
+    "image": "raytracer.png",
+    "url": "https://github.com/SGIANNINIGARCIA/RayTracer"
+  },
+  {
+    "name": "Snake",
+    "description": "My own version of the famous snake game. The game consists of “feeding” the snake in order to make it grow, without colliding with the walls or the snake itself.",
+    "date": "June, 2020",
+    "tools": "C++, OpenGL, Eclipse",
+    "image": "snake.png",
+    "url": "https://github.com/SGIANNINIGARCIA/Snake"
+  },
+  {
+    "name": "Kruskal",
+    "description": "Kruskal’s algorithm is a minimum spanning tree algorithm, meaning it is and algorithm in which its output is a subset of edges of a connected, edge-weighted undirected graph that connects all the vertices together, without any cycles and with the minimum possible total edge weight.",
+    "date": "May, 2019",
+    "tools": "Java, Eclipse",
+    "image": "kruskal.png",
+    "url": "https://github.com/SGIANNINIGARCIA/Kruskal-s"
+  },
+  {
+    "name": "MMC Sim",
+    "description": "Implementation of a M/M/1 queue using the discrete-event strategy to simulate a two-class priority queueing system. The simulation runs at various Utilization levels, while also increasing the percentage of high-priority customers (f). The output of the program is a graph showing the residence times for high-priority and regular customers as a function of f",
+    "date": "Dec, 2019",
+    "tools": "Python, Matplotlib, Atom",
+    "image": "mmc.png",
+    "url": "https://github.com/SGIANNINIGARCIA/MMC-sim"
+  },
+  {
+    "name": "Shell",
+    "description": "My own command line interface written in C.",
+    "date": "February, 2019",
+    "tools": "C, Atom",
+    "image": "shell.png",
+    "url": "https://github.com/SGIANNINIGARCIA/Shell"
+  },
+  {
+    "name": "Interpreter",
+    "description": "An interpreter for parsing, translating and executing a custom computer language capable of handling basic arithmetic operation, variable handling and string related operations.",
+    "date": "January, 2019",
+    "tools": "Java, Eclipse",
+    "image": "interpreter.png",
+    "url": "https://github.com/SGIANNINIGARCIA/Interpreter"
+  },
+  {
+    "name": "Shakespearean indexer",
+    "description": "Program that takes Shakespeare’s work as an input to be indexed. The program offers a search engine to query words or phrases and returns a list of instances with the appropriate act, scene and character. ",
+    "date": "April, 2019",
+    "tools": "Java, Eclipse",
+    "image": "shakespeare.jpg",
+    "url": "https://github.com/SGIANNINIGARCIA/Shakespearean-Search"
+  },
+  {
+    "name": "Regime Casualties",
+    "description": "A relational database used to store the casualties and incarcerations due to protests in Venezuela since 2012. The database contains pertinent information on the casualties and arrests like cause of death, city, date, perpetrator and others.",
+    "date": "April, 2019",
+    "tools": "SQL, MySQL, Atom",
+    "image": "regime.jpg",
+    "url": "https://github.com/SGIANNINIGARCIA/regimeCasualties"
+  },
+  {
+    "name": "More...",
+    "description": "For more projects please click on the link below",
+    "date": "",
+    "tools": "",
+    "image": "plus.png",
+    "url": "https://github.com/SGIANNINIGARCIA/"
+  }
+]
