@@ -47,8 +47,8 @@ function About() {
           would offer me a lifetime of learning, wonder, and the feeling of
           accomplishment. During my journey, I took classes in Biology,
           Chemistry, Math, Anatomy, Humanities, and other disciplines, which
-          left me in me invaluable knowledge, and more importantly, I became
-          aware of my thought process. <br></br>
+          left in me invaluable knowledge, and more importantly, I became aware
+          of my thought process. <br></br>
           Ultimately, I circled back to my first passion, computers. I enrolled
           in the computer science program where I found what I was looking for.
           I learned about programming paradigms, computer architecture,
